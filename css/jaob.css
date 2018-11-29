@@ -1,0 +1,12 @@
+#avatar {
+    height: 100px;
+    margin-top: 10px;
+    -webkit-box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+    border-radius: 20px;
+}
+
+.nav-background > div {
+    background-size: contain;
+    background-repeat: no-repeat;
+}
